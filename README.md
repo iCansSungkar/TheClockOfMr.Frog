@@ -28,7 +28,7 @@ This responsive clock displays the current time in a clean, minimal interface â€
 
 ## ðŸ“¸ QR Code
 
-![Clock Interface](assets/qr.png)
+![Clock Interface](assets/adobe-express-qr-code.png)
 
 ---
 
