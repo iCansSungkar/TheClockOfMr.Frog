@@ -26,9 +26,9 @@ This responsive clock displays the current time in a clean, minimal interface �
 
 ---
 
-## 📸 Preview
+## 📸 QR Code
 
-![Clock Interface](preview.png)
+![Clock Interface](assets/qr.png)
 
 ---
 
