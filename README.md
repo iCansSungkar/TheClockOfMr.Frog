@@ -5,7 +5,7 @@ This responsive clock displays the current time in a clean, minimal interface â€
 
 ---
 
-![Digital Clock Screenshot](preview.png)
+![Digital Clock Screenshot](./assets/jam.jpg)
 
 > **Live Demo:** [Click to View](https://icanssungkar.github.io/TheClockOfMr.Frog/)
 
